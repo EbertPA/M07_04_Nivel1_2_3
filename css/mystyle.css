@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.icon {
+    font-size: 5rem;
+    margin: 0 5px;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenido {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.rating {
+    color: #e5e1cb;
+}
+
+.green {
+    color: #00a15d;
+}
+
+.red {
+    color: #df2d29;
+}
+
+.blue {
+    color: #00e2fb;
+}
